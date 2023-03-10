@@ -1,0 +1,15 @@
+aside {
+    display: flex;
+    position: fixed;
+    box-shadow: tomato;
+}
+.trending {
+background-color: aqua;
+position: relative;
+
+}
+main {
+    display: flex;
+   flex-direction: column;
+   height: 100%;
+}

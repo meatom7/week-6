@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+    width: 100%;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.first_of_kind {
+    align-items: flex-start;
+}
+.bars {
+    border-color: black;
+    background-color: antiquewhite;
+}
+img {
+    max-width: 200px;
+}
